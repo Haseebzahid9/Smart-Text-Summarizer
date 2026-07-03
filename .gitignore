@@ -1,0 +1,52 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+*.pyo
+*.pyd
+
+# Pytest
+.pytest_cache/
+.cache/
+
+# Streamlit secrets (never commit credentials)
+.streamlit/secrets.toml
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Hugging Face model cache (large binary files)
+.cache/
+models/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Logs
+*.log
+logs/

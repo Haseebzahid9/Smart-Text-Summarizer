@@ -1,0 +1,29 @@
+============================================================
+  Smart Text Summarizer — AI-Generated Summary
+============================================================
+
+Generated : 2026-07-03 12:00:00
+Length    : Medium
+Original  : 681 words
+Summary   : 97 words
+Compressed: 85.7%
+
+============================================================
+SUMMARY
+============================================================
+
+Artificial intelligence is transforming healthcare in several key areas.
+AI-powered imaging tools can detect cancers and other conditions with accuracy
+rivaling expert radiologists. Predictive models analyze health records to flag
+high-risk patients before symptoms appear, enabling earlier interventions.
+In drug discovery, AI accelerates the identification of viable candidates and
+reduces costly late-stage failures. Personalized medicine benefits from AI
+integrating genomic and real-time data to tailor individual treatments.
+Despite these advances, challenges around data privacy, algorithmic bias, and
+clinician training must be addressed to ensure AI is deployed safely and equitably.
+
+============================================================
+ORIGINAL TEXT
+============================================================
+
+[See sample_article.txt for the full original text]
